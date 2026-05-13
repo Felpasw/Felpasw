@@ -1,9 +1,5 @@
 ## Hi there👋. I'm Felipe Cavalcante Lacerda, nice to have you here 😄!  
 
-<div align="center" style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=Felpasw&hide_border=true&bg_color=00000000&title_color=71A40&text_color=FFFFFF&icon_color=F085F2&show_icons=true" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felpasw&layout=compact&hide_border=true&title_color=71A40&bg_color=00000000" />
-</div>
 
   ##
   
